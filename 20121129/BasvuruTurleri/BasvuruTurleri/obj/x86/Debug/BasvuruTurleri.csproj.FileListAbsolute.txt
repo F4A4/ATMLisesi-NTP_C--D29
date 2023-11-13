@@ -1,0 +1,7 @@
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\bin\Debug\BasvuruTurleri.exe
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\bin\Debug\BasvuruTurleri.pdb
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\obj\x86\Debug\BasvuruTurleri.Form1.resources
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\obj\x86\Debug\BasvuruTurleri.Properties.Resources.resources
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\obj\x86\Debug\BasvuruTurleri.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\obj\x86\Debug\BasvuruTurleri.exe
+C:\Users\ogr\Desktop\BasvuruTurleri\BasvuruTurleri\obj\x86\Debug\BasvuruTurleri.pdb

@@ -1,0 +1,9 @@
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\bin\Debug\DegerlerVeBasvurular.exe
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\bin\Debug\DegerlerVeBasvurular.pdb
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\DegerlerVeBasvurular.Form1.resources
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\DegerlerVeBasvurular.Properties.Resources.resources
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\DegerlerVeBasvurular.exe
+C:\Users\MO-04\Desktop\DegerlerVeBasvurular\DegerlerVeBasvurular\obj\x86\Debug\DegerlerVeBasvurular.pdb
